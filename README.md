@@ -1,6 +1,4 @@
-## Microservice_para_envio_de_email_com_springboot
-Um microservice para envio de email usando SpringBoot
-
+## Um microservice para envio de email usando SpringBoot
 
 ### Dependencias:
 
